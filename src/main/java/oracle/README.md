@@ -1,12 +1,16 @@
 ## Project : Address Book
 
+<br/>
+
 **Java**로 **Oracle database** 를 사용하여 사용자가 편리하게 사용할 수 있도록 **Java** 기반의 **Swing**클래스를 사용하여 주소록을 
 
 만드는 프로젝트 입니다.
 
+<br/>
 
 ### Swing
 
+<br/>
 **Swing** 은 자바에서 GUI를 구현하기 위해 JDK에서 기본적으로 제공하는 개발 툴킷으로 선 마이크로시스템즈의 자바 기반 클래스의 일부입니다.
 
 
