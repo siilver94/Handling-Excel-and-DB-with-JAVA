@@ -2,7 +2,7 @@
 
 <br/>
 
-**MySQL Connector** 는 JAVA 를 통하여 데이터베이스를 저장하기위한 **DBMS(database management system)** 에 연결하기 위한 드라이버 입니다.
+**MySQL Connector** 는 JAVA 를 통하여 데이터베이스를 저장하기 위한 **DBMS(database management system)** 에 연결하기 위한 드라이버 입니다.
 
 **MySQL** 설치후 **JAVA MySQL** 연결을 위한 **MySQL Connector** 를 설치 하면 **JAVA** 를 **DB**에 연결할 수 있습니다.
 
