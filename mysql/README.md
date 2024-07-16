@@ -1,5 +1,9 @@
 ## MySQL
 
+<code><img height = "300"
+src = https://github.com/user-attachments/assets/7fe72350-6900-4216-bd3a-0fea909c6ba2></code>
+
+
 **MySQL**은 세계에서 가장 많이 쓰이는 오픈 소스의 관계형 데이터베이스 관리 시스템이다.
 다중 스레드, 다중 사용자 형식의 구조질의어 형식의 데이터베이스 관리 시스템으로서 오라클이 관리 및 지원하고 있으며,
 Qt처럼 이중 라이선스가 적용된다.
